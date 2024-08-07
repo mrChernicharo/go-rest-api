@@ -5,4 +5,5 @@ CREATE TABLE IF NOT EXISTS rooms(
 );
 
 ---- create above / drop below ----
+-- Write your migrate down statements here. 
 DROP TABLE IF EXISTS rooms;
